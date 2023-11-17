@@ -1,0 +1,12 @@
+{
+    "prefix": "sraca",
+    "token": "MTE3NDczNjgwODQ3MTQzMzI2Ng.GfsHOn.SCUiZJaH9f1yiLFrFG3F0xrFxQ4Zsvf6J6NHNU",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}
